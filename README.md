@@ -2,8 +2,7 @@
 Data Algorithms & Analysis AAT
 
 ## Knapsack
-
-###[Link to Knapsack submission](https://www.hackerrank.com/challenges/unbounded-knapsack/submissions/code/391221785)
+[Link to Knapsack submission](https://www.hackerrank.com/challenges/unbounded-knapsack/submissions/code/391221785)
 
 ```python
 #!/bin/python3

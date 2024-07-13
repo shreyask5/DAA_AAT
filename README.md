@@ -3,7 +3,7 @@ Data Algorithms & Analysis AAT
 
 ## Knapsack
 
-[Link to the submission](https://www.hackerrank.com/challenges/unbounded-knapsack/submissions/code/391221785)
+###[Link to Knapsack submission](https://www.hackerrank.com/challenges/unbounded-knapsack/submissions/code/391221785)
 
 ```python
 #!/bin/python3
@@ -56,7 +56,7 @@ if __name__ == '__main__':
 
 ## Cloudy Day
 
-[Link to the submission](https://www.hackerrank.com/challenges/cloudy-day/submissions/code/391222519)
+###[Link to Cloudy Day submission](https://www.hackerrank.com/challenges/cloudy-day/submissions/code/391222519)
 
 ```python
 #!/bin/python3
@@ -114,7 +114,8 @@ if __name__ == "__main__":
 ```
 
 ## QuickSort
-[Link to the submission](https://www.hackerrank.com/challenges/quicksort1/submissions/code/391223331)
+
+###[Link to QuickSort submission](https://www.hackerrank.com/challenges/quicksort1/submissions/code/391223331)
 
 ```python
 #!/bin/python3
@@ -160,7 +161,7 @@ if __name__ == '__main__':
 
 ## String Construction
 
-[Link to the submission](https://www.hackerrank.com/challenges/string-construction/submissions/code/391226669)
+###[Link to String Construction submission](https://www.hackerrank.com/challenges/string-construction/submissions/code/391226669)
 
 ```python
 #!/bin/python3
